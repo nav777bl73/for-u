@@ -7,19 +7,19 @@ h3 {font-size: 16px;
 font-family: georgia, sans-serif;}
 u { color: rgb(203,241,223);}
 .glow {
-    font-size: 48px;
-    text-align: center;
-    color: #dc0d0dff;
-    text-shadow: 
-        0 0 10px #dc0d0dff,
-        0 0 20px #dc0d0dff,
-        0 0 40px #dc0d0dff,
-        0 0 80px #dc0d0dff;
-    animation: pulse 2s infinite;
+font-size: 48px;
+text-align: center;
+ color: #dc0d0dff;
+text-shadow: 
+0 0 10px #dc0d0dff,
+0 0 20px #dc0d0dff,
+0 0 40px #dc0d0dff,
+0 0 80px #dc0d0dff;
+animation: pulse 2s infinite;
 }
 
 @keyframes pulse {
-    0% { transform: scale(1); }
-    50% { transform: scale(1.05); }
-    100% { transform: scale(1); }
+0% { transform: scale(1); }
+50% { transform: scale(1.05); }
+100% { transform: scale(1); }
 }
