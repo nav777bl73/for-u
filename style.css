@@ -9,7 +9,7 @@ u { color: rgb(203,241,223);}
 body {
     margin: 0;
     height: 100vh;
-    background-color: #0d1117; /* Темный фон */
+    background-color: #0d1117; 
     display: flex;
     justify-content: center;
     align-items: center;
@@ -18,7 +18,7 @@ body {
 .glow {
     font-size: 48px;
     text-align: center;
-    color: #dc0d0d; /* Твой новый цвет */
+    color: #dc0d0d; 
     text-shadow: 
         0 0 10px #dc0d0d,
         0 0 25px #dc0d0d,
